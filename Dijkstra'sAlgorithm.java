@@ -229,7 +229,7 @@ public class Djikstras
      * Conatins methods to insert, in-order print, and search for a value
      * 
      * @author Grady McPeak 
-     * @version One
+     * @version Two
      */
     public static class DBST <T> {
         BSTNode <T> root;
